@@ -1,3 +1,5 @@
+//Juego de adivinar el numero
+
 let numero = Math.floor(Math.random()*20)+1;
 let leer = require('prompt-sync')();
 
