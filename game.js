@@ -9,7 +9,7 @@ do {
     intento = parseInt(leer("Adivina el numero que esta entre 1 y 10: "));
 
     if (intento === numero){
-        console.log("Adivinaste!🤩");
+        console.log("Adivinaste, eres muy intuitivo!🤩");
 
     } else if (Math.abs(intento-numero)<=2){
         console.log("Caliente🔥");
