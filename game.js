@@ -1,4 +1,4 @@
-//Juego de adivinar el numero
+//Juego de adivinar el numero 🎈🎈🎈
 
 let numero = Math.floor(Math.random()*10)+1;
 let leer = require('prompt-sync')();
