@@ -1,4 +1,4 @@
-let numero = Math.floor(Math.random()*10)+1;
+let numero = Math.floor(Math.random()*20)+1;
 let leer = require('prompt-sync')();
 
 let intento;
